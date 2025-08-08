@@ -1,2 +1,2 @@
 # Naviotich-project-
-Internship project 
+training project 
